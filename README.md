@@ -2,3 +2,5 @@
 ## python learning project
 
 learning python
+
+leqrning ptyhon condiction
